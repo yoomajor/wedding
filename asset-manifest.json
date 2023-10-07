@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.dbc07486.css",
+    "main.css": "/wedding/static/css/main.398aaaa9.css",
     "main.js": "/wedding/static/js/main.28db4f37.js",
     "static/js/981.f98928b3.chunk.js": "/wedding/static/js/981.f98928b3.chunk.js",
     "static/js/787.425d26f0.chunk.js": "/wedding/static/js/787.425d26f0.chunk.js",
@@ -14,8 +14,8 @@
     "static/media/bg_greeting.png": "/wedding/static/media/bg_greeting.ee44cf1b6be3363a0705.png",
     "static/media/heart.png": "/wedding/static/media/heart.e50822ac1254e8218066.png",
     "static/media/pic_7.png": "/wedding/static/media/pic_7.1599fa9f4eb0715146ae.png",
-    "static/media/entrance_2.png": "/wedding/static/media/entrance_2.0ae7effbc7eba68893e8.png",
-    "static/media/entrance_1.png": "/wedding/static/media/entrance_1.741ec91333ea052f9fbf.png",
+    "static/media/entrance_2.png": "/wedding/static/media/entrance_2.ed49a8708c1b48cbad9e.png",
+    "static/media/entrance_1.png": "/wedding/static/media/entrance_1.379f2e3500fa4eef3042.png",
     "static/media/pic_8.png": "/wedding/static/media/pic_8.0d93ec9127eb96627357.png",
     "static/media/thumb_6.png": "/wedding/static/media/thumb_6.d2587b44b203954491a6.png",
     "static/media/thumb_2.png": "/wedding/static/media/thumb_2.4ed833d873fca2769d64.png",
@@ -28,13 +28,13 @@
     "static/media/thumb_8.png": "/wedding/static/media/thumb_8.d478408dd0e6dffaa5c2.png",
     "static/media/bg_greeting_top.png": "/wedding/static/media/bg_greeting_top.6326f88d21db16853e07.png",
     "index.html": "/wedding/index.html",
-    "main.dbc07486.css.map": "/wedding/static/css/main.dbc07486.css.map",
+    "main.398aaaa9.css.map": "/wedding/static/css/main.398aaaa9.css.map",
     "main.28db4f37.js.map": "/wedding/static/js/main.28db4f37.js.map",
     "981.f98928b3.chunk.js.map": "/wedding/static/js/981.f98928b3.chunk.js.map",
     "787.425d26f0.chunk.js.map": "/wedding/static/js/787.425d26f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbc07486.css",
+    "static/css/main.398aaaa9.css",
     "static/js/main.28db4f37.js"
   ]
 }
